@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/trsp400/crud-salary#readme",
   "dependencies": {
+    "date-fns": "^2.16.1",
     "express": "^4.17.1",
     "sucrase": "^3.15.0"
   },
